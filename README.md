@@ -1,16 +1,15 @@
-## Hi there 👋
+Hey there! I'm Ubaid, an aspiring Back-End Developer with a passion for building efficient, secure, and scalable systems. I'm currently in my 2nd semester of BS Computer Science at National University of Modern Languages (NUML), Lahore.
 
-<!--
-**Ubaiddar1614/Ubaiddar1614** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔧 I'm currently working on a Bank Management Application using Java and MySQL—a project aimed at strengthening my backend and database skills through real-world implementation.
 
-Here are some ideas to get you started:
+💻 I have hands-on experience with:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+C++ and Java (including strong fundamentals in Object-Oriented Programming)
+
+Front-End Web Development (HTML, CSS, JavaScript)
+
+MySQL for relational database design and queries
+
+🧠 I regularly sharpen my problem-solving skills on platforms like LeetCode and HackerRank, focusing on Data Structures and Algorithms.
+
+🤝 I'm always open to collaboration, feedback, and learning opportunities. Whether it's contributing to projects, pair programming, or just tech talk—feel free to reach out!
