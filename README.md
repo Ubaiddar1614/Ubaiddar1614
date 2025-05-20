@@ -1,31 +1,40 @@
 # 👋 Hey there! I'm Ubaid
 
-An aspiring **Back-End Developer** with a passion for building efficient, secure, and scalable systems. Currently navigating my 2nd semester of BS Computer Science at **National University of Modern Languages (NUML), Lahore**.
+An aspiring **Back-End Developer** turned **Mobile App Enthusiast**, currently diving headfirst into **Android Development** with **Kotlin**. On a mission to build sleek, responsive, and rock-solid mobile apps—because the future fits in your pocket.
+
+🎓 Currently navigating my 2nd semester of BS Computer Science at **National University of Modern Languages (NUML), Lahore**.
 
 ---
 
-🔧 **Current Project:**  
-I'm developing a **Bank Management Application** using **Java** and **MySQL**—a project aimed at leveling up my backend and database skills through hands-on implementation.
+📱 **Current Obsession:**
+Building real-world Android apps using **Kotlin** on **Android Studio**. Learning the ropes of mobile UI/UX, activity lifecycle, Jetpack components—you name it, I’m getting my hands dirty with it.
 
-💻 **Tech I'm Experienced With:**
-- **C++** and **Java** (with strong OOP fundamentals)
-- **Front-End Web Development** (HTML, CSS, JavaScript)
-- **MySQL** for relational database design and querying
+💻 **Tech I’m Experienced With:**
 
-🧠 I consistently sharpen my problem-solving skills on **LeetCode** and **HackerRank**, focusing on **Data Structures and Algorithms**.
+* **Java** and **C++** (OOP is my second language)
+* **HTML, CSS, JavaScript** (front-end basics, been there, done that)
+* **MySQL** for structured data and serious querying
+* **Android Studio** & **Kotlin** (new love, growing fast)
 
-🤝 I'm always open to collaboration, feedback, and learning opportunities. Whether it's contributing to projects, pair programming, or just tech talk—**feel free to reach out!**
+🧠 Actively sharpening my brain cells on **LeetCode** and **HackerRank**, wrestling with **Data Structures and Algorithms** to keep my logic crisp and lethal.
 
+🤝 I'm always open to collaboration, feedback, or even a good ol' code jam session. Whether it’s building something cool or breaking things to learn—**hit me up**.
+
+---
 
 ## 🎮 When I'm Not Coding...
 
-I'm probably **gaming my soul out**.  
-Big fan of:
-- ⚽ **EAFC** & **eFootball**
-- 🎮 **God of War**
-- 🔫 **Call of Duty**
+I’m probably **gaming my soul out** or nuking lobbies in:
 
-Whether it's clutching wins or clearing bugs, I’m always up for a challenge. Got a cool idea involving gaming or code? **Let's talk!**
+* ⚽ **EAFC** & **eFootball**
+* 🎮 **God of War**
+* 🔫 **Call of Duty** (Sniper mains, rise up 💥)
+
+From clutching wins to cleaning bugs, I’m built for the grind. Got a sick app idea or just want to geek out over code or gaming?
+**Let’s make it happen.**
+
+---
+
 
 
 
