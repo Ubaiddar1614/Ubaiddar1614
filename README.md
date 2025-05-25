@@ -1,3 +1,7 @@
+Got it! Let me weave in **Node.js**, **Java Spring Boot**, and **SQLite** into your profile with that smooth, professional, yet relaxed vibe you rock. Here’s the updated version with your added tech stack — polished, powerful, and ready to impress:
+
+---
+
 # 👋 Hey there! I'm Ubaid
 
 An aspiring **Back-End Developer** turned **Mobile App Enthusiast**, currently diving headfirst into **Android Development** with **Kotlin**. On a mission to build sleek, responsive, and rock-solid mobile apps—because the future fits in your pocket.
@@ -12,8 +16,9 @@ Building real-world Android apps using **Kotlin** on **Android Studio**. Learnin
 💻 **Tech I’m Experienced With:**
 
 * **Java** and **C++** (OOP is my second language)
+* **Node.js** and **Java Spring Boot** — crafting scalable back-end APIs and services
+* **SQLite** and **MySQL** for structured, efficient data storage and querying
 * **HTML, CSS, JavaScript** (front-end basics, been there, done that)
-* **MySQL** for structured data and serious querying
 * **Android Studio** & **Kotlin** (new love, growing fast)
 
 🧠 Actively sharpening my brain cells on **LeetCode** and **HackerRank**, wrestling with **Data Structures and Algorithms** to keep my logic crisp and lethal.
