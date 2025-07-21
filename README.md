@@ -1,5 +1,40 @@
-# 💫 About Me:
-👋 Hey there! I'm Ubaid<br><br>An aspiring **Back-End Developer** turned **Mobile App Enthusiast**, currently diving headfirst into **Android Development** with **Kotlin**. On a mission to build sleek, responsive, and rock-solid mobile apps—because the future fits in your pocket.<br><br>🎓 Currently navigating my 2nd semester of BS Computer Science at **National University of Modern Languages (NUML), Lahore**.<br><br>---<br><br>📱 **Current Obsession:**<br>Building real-world Android apps using **Kotlin** on **Android Studio**. Learning the ropes of mobile UI/UX, activity lifecycle, Jetpack components—you name it, I’m getting my hands dirty with it.<br><br>💻 **Tech I’m Experienced With:**<br><br>* **Java** and **C++** (OOP is my second language)<br>* **Node.js** and **Java Spring Boot** — crafting scalable back-end APIs and services<br>* **SQLite** and **MySQL** for structured, efficient data storage and querying<br>* **HTML, CSS, JavaScript** (front-end basics, been there, done that)<br>* **Android Studio** & **Kotlin** (new love, growing fast)<br><br>🧠 Actively sharpening my brain cells on **LeetCode** and **HackerRank**, wrestling with **Data Structures and Algorithms** to keep my logic crisp and lethal.<br><br>🤝 I'm always open to collaboration, feedback, or even a good ol' code jam session. Whether it’s building something cool or breaking things to learn—**hit me up**.<br><br>---<br><br>## 🎮 When I'm Not Coding...<br><br>I’m probably **gaming my soul out** or nuking lobbies in:<br><br>* ⚽ **EAFC** & **eFootball**<br>* 🎮 **God of War**<br>* 🔫 **Call of Duty** (Sniper mains, rise up 💥)<br><br>From clutching wins to cleaning bugs, I’m built for the grind. Got a sick app idea or just want to geek out over code or gaming?<br>**Let’s make it happen.**<br><br>
+👋 Hey there! I'm Ubaid
+
+An aspiring **Back-End Developer** who's enthusiastically transitioned into a **Mobile App Enthusiast**, currently diving headfirst into **Android Development** with **Flutter**. My mission is to build sleek, responsive, and robust mobile applications—because I believe the future fits in your pocket.
+
+🎓 I'm currently in my 3rd semester of BS Computer Science at **National University of Modern Languages (NUML), Lahore**.
+
+---
+
+### 📱 Current Focus:
+
+I'm currently obsessed with building real-world Android applications using **Flutter** and **Dart** on **Android Studio**. I'm actively learning the intricacies of mobile UI/UX, optimizing app performance, and exploring the full potential of cross-platform development. My goal is to craft seamless user experiences that truly stand out.
+
+---
+
+### 💻 Tech I'm Experienced With:
+
+* **Languages:** **Java** and **C++** (OOP is my second language)
+* **Back-End:** **Node.js** and **Java Spring Boot** — for crafting scalable APIs and services
+* **Databases:** **SQLite** and **MySQL** for efficient data storage and querying
+* **Front-End Basics:** **HTML, CSS, JavaScript**
+* **Mobile Development:** **Flutter**, **Dart**, and **Android Studio** (my current passion)
+
+I'm also actively sharpening my problem-solving skills on **LeetCode** and **HackerRank**, focusing on **Data Structures and Algorithms** to keep my logic crisp and efficient.
+
+🤝 I'm always open to collaboration, feedback, or even a good old code jam session. Whether it’s building something cool or breaking things to learn—**hit me up**!
+
+---
+
+## 🎮 When I'm Not Coding...
+
+You'll probably find me gaming! I enjoy:
+
+* ⚽ **EAFC** & **eFootball**
+* 🎮 **God of War**
+* 🔫 **Call of Duty** (especially as a sniper main 💥)
+
+From clutching wins to cleaning bugs, I'm built for the grind. Got a sick app idea or just want to geek out over code or gaming? **Let's connect!**
 
 
 ## 🌐 Socials:
