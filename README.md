@@ -1,40 +1,36 @@
-👋 Hey there! I'm Ubaid
+👋 Hey there! I'm **Ubaid** — a passionate **Back-End Developer** turned **Mobile App Enthusiast**, currently diving headfirst into **Flutter** and **Android Development**.
 
-An aspiring **Back-End Developer** who's enthusiastically transitioned into a **Mobile App Enthusiast**, currently diving headfirst into **Android Development** with **Flutter**. My mission is to build sleek, responsive, and robust mobile applications—because I believe the future fits in your pocket.
-
-🎓 I'm currently in my 3rd semester of BS Computer Science at **National University of Modern Languages (NUML), Lahore**.
+🎓 I'm pursuing a **BS in Computer Science** at **NUML, Lahore**, and I’m on a mission to build sleek, responsive, and powerful mobile applications — because the future fits in your pocket.
 
 ---
 
-### 📱 Current Focus:
+### 📱 Current Focus
 
-I'm currently obsessed with building real-world Android applications using **Flutter** and **Dart** on **Android Studio**. I'm actively learning the intricacies of mobile UI/UX, optimizing app performance, and exploring the full potential of cross-platform development. My goal is to craft seamless user experiences that truly stand out.
-
----
-
-### 💻 Tech I'm Experienced With:
-
-* **Languages:** **Java** and **C++** (OOP is my second language)
-* **Back-End:** **Node.js** and **Java Spring Boot** — for crafting scalable APIs and services
-* **Databases:** **SQLite** and **MySQL** for efficient data storage and querying
-* **Front-End Basics:** **HTML, CSS, JavaScript**
-* **Mobile Development:** **Flutter**, **Dart**, and **Android Studio** (my current passion)
-
-I'm also actively sharpening my problem-solving skills on **LeetCode** and **HackerRank**, focusing on **Data Structures and Algorithms** to keep my logic crisp and efficient.
-
-🤝 I'm always open to collaboration, feedback, or even a good old code jam session. Whether it’s building something cool or breaking things to learn—**hit me up**!
+Building real-world Android apps using **Flutter** and **Dart**, exploring clean UI/UX, performance optimization, and the full potential of cross-platform development.
 
 ---
 
-## 🎮 When I'm Not Coding...
+### 🔧 Tech I Work With
 
-You'll probably find me gaming! I enjoy:
+- **Languages:** Dart, Java, C++
+- **Back-End:** Node.js, Spring Boot
+- **Databases:** SQLite, MySQL
+- **Frontend (basic):** HTML, CSS, JavaScript
+- **Mobile:** Flutter, Android Studio
+- **Currently:** Grinding DSA on LeetCode & HackerRank 💡
 
-* ⚽ **EAFC** & **eFootball**
-* 🎮 **God of War**
-* 🔫 **Call of Duty** (especially as a sniper main 💥)
+---
 
-From clutching wins to cleaning bugs, I'm built for the grind. Got a sick app idea or just want to geek out over code or gaming? **Let's connect!**
+### 🎮 When I’m Not Coding...
+
+- ⚽ EAFC & eFootball  
+- 🔫 Call of Duty (*sniper main*)  
+- ⚔️ God of War (*for the myth & madness*)
+
+From clutching wins to cleaning bugs — I’m built for the grind.
+
+**Let’s connect — whether it’s apps, collabs, or code jams.**
+
 
 
 ## 🌐 Socials:
