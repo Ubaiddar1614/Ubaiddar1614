@@ -31,9 +31,10 @@ I’m also sharpening my problem-solving skills daily on **LeetCode** and **Hack
 
 ![Ubaid's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ubaiddar1614&show_icons=true&theme=radical&hide=issues&count_private=true)
 
+![](https://nirzak-streak-stats.vercel.app/?user=ubaiddar1614&theme=dark&hide_border=false)<br/>
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ubaiddar1614&layout=compact&theme=radical)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=ubaiddar1614)](https://git.io/streak-stats)
 
 
 
@@ -76,4 +77,5 @@ Got a cool app idea? Want to geek out over code or just rage over God of War plo
 
 ---
 
-![Visitor Badge](https://komarev.com/ghpvc/?username=ubaiddar1614&style=flat-square&color=blue)
+
+
