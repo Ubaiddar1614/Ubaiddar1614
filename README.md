@@ -28,13 +28,15 @@ I’m also sharpening my problem-solving skills daily on **LeetCode** and **Hack
 ### 📊 GitHub Stats
 
 <!-- Stats Card -->
-![Ubaid's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ubaiddar1614&show_icons=true&theme=dark&hide_border=false&cache_seconds=86400)
+![GitHub User's stars](https://img.shields.io/github/stars/ubaiddar1614?style=social)
+![GitHub last commit](https://img.shields.io/github/last-commit/ubaiddar1614/student_Management.dart)
 
-<!-- Top Languages Card -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ubaiddar1614&layout=compact&theme=dark&hide_border=false&cache_seconds=86400&hide=c)
+![Ubaid's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ubaiddar1614&show_icons=true&theme=radical&hide=issues&count_private=true)
 
-<!-- Streak Stats -->
-![GitHub Streak](https://streak-stats.demolab.com?user=ubaiddar1614&theme=dark&hide_border=false)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ubaiddar1614&layout=compact&theme=radical)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ubaiddar1614&theme=radical)](https://git.io/streak-stats)
+
 
 ---
 
