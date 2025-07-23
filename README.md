@@ -33,7 +33,7 @@ I’m also sharpening my problem-solving skills daily on **LeetCode** and **Hack
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ubaiddar1614&layout=compact&theme=radical)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ubaiddar1614)](https://github.com/ubaiddar1614)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=ubaiddar1614)](https://git.io/streak-stats)
 
 
 
