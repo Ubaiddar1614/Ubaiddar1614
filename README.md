@@ -1,25 +1,34 @@
 # 👋 Hey there! I'm Ubaid
 
-An aspiring **Back-End Developer** who's passionately transitioned into a **Mobile App Enthusiast**, currently diving headfirst into **Android Development** with **Flutter**. My mission? To build sleek, responsive, and robust mobile applications—because I believe the future fits in your pocket.
+An aspiring **Back-End Developer** turned **Mobile App Alchemist**, currently summoning sleek and scalable solutions with **Flutter** & **Dart**. I’m all about building apps that feel as smooth as they function — because the future deserves better than buggy UI and laggy buttons.
 
-🎓 Currently in my 3rd semester of BS Computer Science at **National University of Modern Languages (NUML), Lahore**.
+🎓 3rd Semester B.S. Computer Science @ **National University of Modern Languages (NUML), Lahore**
+🧠 Constantly learning, building, breaking stuff (intentionally), and leveling up.
 
 ---
 
-### 📱 Current Focus
+### 📱  What I’m Cooking Lately
+Currently brewing real-world Android apps in Flutter, combining beautiful UI with rock-solid logic. I focus on:
 
-I'm actively building real-world Android applications using **Flutter** and **Dart** on **Android Studio**. From exploring mobile UI/UX to optimizing performance and crafting cross-platform solutions — I aim to deliver seamless experiences that *feel* as good as they *function*.
+📲 Cross-platform mobile development that’s fast and elegant
+
+🔌 REST APIs & Firebase integrations that just work
+
+🎨 Crafting UIs that don’t make users cry
+
+⚙️ Tinkering with Node.js & Spring Boot backends (just started, but the vibes are strong)
+
 
 ---
 
 ### 💻 Tech Stack & Tools
 
 - **Languages:** Java, C++, Dart  
-- **Back-End:** Node.js, Java Spring Boot  
-- **Databases:** SQLite, MySQL  
+- **Back-End:** Node.js, Java Spring Boot, REST APIs  
+- **Databases:** SQLite, MySQL, Playing with MongoDB
 - **Front-End Basics:** HTML, CSS, JavaScript  
-- **Mobile Development:** Flutter, Dart, Android Studio  
-- **Tools & IDEs:** VS Code, Android Studio, Git, GitHub  
+- **Mobile Development:** Flutter, Dart,Firebase (Auth, Firestore, Cloud functions), Android Studio  
+- **Tools & IDEs:** VS Code, Android Studio, Git, GitHub, Postman
 
 I’m also sharpening my problem-solving skills daily on **LeetCode** and **HackerRank**, focusing on **Data Structures & Algorithms** to keep my logic clean and crisp.
 
@@ -44,15 +53,15 @@ I’m also sharpening my problem-solving skills daily on **LeetCode** and **Hack
 ### 🧠 Repositories to Check Out
 
 - [`dart-basics`](https://github.com/ubaiddar1614/Dart): My personal Dart playground covering functions, OOP, collections, and real-world mini projects.
-- More to come — it’s only Day 1 in my Dev Saga!
+- More to come — the Dev saga has just begun.Stay tuned!
 
 ---
 
 ### 🧩 Fun Facts
 
-- 💭 OOP is basically my second language (Java days got me like: "class in session.")
-- ⚡ I enjoy refactoring spaghetti code into Michelin-star-level logic.
-- 📚 Side-questing into Design Patterns, App Architecture, and Git mastery.
+- 💭 OOP is basically my second language (Java got me writing extends before essays)
+- ⚡ I turn spaghetti code into Michelin-star-level logic.
+- 📚 Side-questing into Design Patterns, App Architecture, and Git mastery.  
 
 ---
 
