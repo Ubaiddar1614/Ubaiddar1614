@@ -1,90 +1,74 @@
-# 👋 Hey there! I'm Ubaid
+# 👋 Hey, I'm Ubaid
 
-An aspiring **Back-End Developer** turned **Mobile App Alchemist**, currently summoning sleek and scalable solutions with **Flutter** & **Dart**. I’m all about building apps that feel as smooth as they function — because the future deserves better than buggy UI and laggy buttons.
+An aspiring **Back-End Developer** building toward enterprise-grade systems with **Java**, **Spring Boot**, and **MySQL**. I'm not interested in surface-level code — I want to understand how systems *actually* work, then build ones that scale.
 
-🎓 3rd Semester B.S. Computer Science @ **National University of Modern Languages (NUML), Lahore**
-🧠 Constantly learning, building, breaking stuff (intentionally), and leveling up.
+🎓 4th Semester B.S. Computer Science @ **National University of Modern Languages (NUML), Lahore**  
+🧠 Constantly learning, building, and going deeper — because getting warm is just getting started.
 
 ---
 
-### 📱  What I’m Cooking Lately
-Currently brewing real-world Android apps in Flutter, combining beautiful UI with rock-solid logic. I focus on:
+### ⚙️ What I'm Building Toward
 
-📲 Cross-platform mobile development that’s fast and elegant
+Currently focused on mastering the **Java + Spring Boot + MySQL** backend stack — the kind of stack that powers real enterprise systems and opens doors in European tech markets.
 
-🔌 REST APIs & Firebase integrations that just work
-
-🎨 Crafting UIs that don’t make users cry
-
-⚙️ Tinkering with Node.js & Spring Boot backends (just started, but the vibes are strong)
-
+- 🔧 **REST API design** — clean, versioned, production-ready
+- 🗄️ **Relational databases** — MySQL, JPA/Hibernate, query optimization
+- 🔐 **Spring Security** — JWT, OAuth2, authentication & authorization
+- 🏗️ **Backend architecture** — layered design, design patterns, system thinking
+- ☁️ **Microservices** (next milestone) — Docker, Kafka, Spring Cloud
 
 ---
 
 ### 💻 Tech Stack & Tools
 
-- **Languages:** Java, C++, Dart  
-- **Back-End:** Node.js, Java Spring Boot, REST APIs  
-- **Databases:** SQLite, MySQL, Playing with MongoDB
-- **Front-End Basics:** HTML, CSS, JavaScript  
-- **Mobile Development:** Flutter, Dart,Firebase (Auth, Firestore, Cloud functions), Android Studio  
-- **Tools & IDEs:** VS Code, Android Studio, Git, GitHub, Postman
+- **Languages:** Java, C++  
+- **Back-End:** Java Spring Boot, REST APIs  
+- **Databases:** MySQL, exploring PostgreSQL & MongoDB  
+- **Security:** Spring Security, JWT  
+- **Build Tools:** Maven  
+- **Tools & IDEs:** IntelliJ IDEA, VS Code, Git, GitHub, Postman
 
-I’m also sharpening my problem-solving skills daily on **LeetCode** and **HackerRank**, focusing on **Data Structures & Algorithms** to keep my logic clean and crisp.
+Sharpening **Data Structures & Algorithms** daily — because backend mastery without solid DSA is just glue code.
 
 ---
 
 ### 📊 GitHub Stats
 
-<!-- Stats Card -->
-
 ![Ubaid's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ubaiddar1614&show_icons=true&theme=radical&hide=issues&count_private=true)
-
 ![](https://nirzak-streak-stats.vercel.app/?user=ubaiddar1614&theme=dark&hide_border=false)<br/>
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ubaiddar1614&layout=compact&theme=radical)
-
-
-
-
 
 ---
 
 ### 🧠 Repositories to Check Out
 
-- [`dart-basics`](https://github.com/ubaiddar1614/Dart): My personal Dart playground covering functions, OOP, collections, and real-world mini projects.
-- More to come — the Dev saga has just begun.Stay tuned!
+- [`dart-basics`](https://github.com/ubaiddar1614/Dart) — Dart playground covering OOP, collections, and mini projects. Completed.
+- More coming — Spring Boot projects, REST APIs, database-heavy systems. The real stuff is loading.
 
 ---
 
-### 🧩 Fun Facts
+### 🧩 A Few Things About Me
 
-- 💭 OOP is basically my second language (Java got me writing extends before essays)
-- ⚡ I turn spaghetti code into Michelin-star-level logic.
-- 📚 Side-questing into Design Patterns, App Architecture, and Git mastery.  
+- 💭 I think in systems, not just syntax — architecture decisions interest me as much as code
+- ⚡ Co-founder of **Stack Fuse** — a freelancing venture building university projects and startup websites
+- 📚 Going deep on Design Patterns, JPA internals, and backend system design
+- 🌍 Long-term goal: Europe — Master's or work visa, built on real backend expertise
 
 ---
 
-## 🎮 When I'm Not Coding...
+### 🎮 When I'm Not Coding...
 
-You’ll probably find me gaming. I enjoy:
-
-- ⚽ **EAFC** & **eFootball**
-- ⚔️ **God of War** (Boy.)
-- 🔫 **Call of Duty** (*sniper main* — one shot, one thrill 💥)
-
-From clutching wins to cleaning bugs, I’m built for the grind.
+- ⚽ Football — EAFC & eFootball (and opinions on the real game too)
+- 🏏 Cricket — always
+- ⚔️ God of War (*Boy.*)
+- 🔫 Call of Duty — sniper main, obviously
+- 📖 Urdu poetry, English literature, and keeping an eye on world politics
 
 ---
 
 ### 💬 Let's Connect
 
-Got a cool app idea? Want to geek out over code or just rage over God of War plot twists?  
-**Let’s build. Let’s break. Let’s grow.**
+Building something backend-heavy? Want to talk architecture, stacks, or career paths in tech?  
+**Let's build. Let's think. Let's grow.**
 
-📫 DM me on GitHub or drop by my inbox — I’m always up for good code and better conversations.
-
----
-
-
-
+📫 DM me on GitHub — always up for good code and better conversations.
