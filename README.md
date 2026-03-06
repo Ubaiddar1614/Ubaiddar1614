@@ -32,21 +32,6 @@ Sharpening **Data Structures & Algorithms** daily — because backend mastery wi
 
 ---
 
-### 📊 GitHub Stats
-
-![Ubaid's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ubaiddar1614&show_icons=true&theme=radical&hide=issues&count_private=true)
-![](https://nirzak-streak-stats.vercel.app/?user=ubaiddar1614&theme=dark&hide_border=false)<br/>
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ubaiddar1614&layout=compact&theme=radical)
-
----
-
-### 🧠 Repositories to Check Out
-
-- [`dart-basics`](https://github.com/ubaiddar1614/Dart) — Dart playground covering OOP, collections, and mini projects. Completed.
-- More coming — Spring Boot projects, REST APIs, database-heavy systems. The real stuff is loading.
-
----
-
 ### 🧩 A Few Things About Me
 
 - 💭 I think in systems, not just syntax — architecture decisions interest me as much as code
@@ -72,3 +57,4 @@ Building something backend-heavy? Want to talk architecture, stacks, or career p
 **Let's build. Let's think. Let's grow.**
 
 📫 DM me on GitHub — always up for good code and better conversations.
+You could also mail me at ubaiddar1614@gmail.com
