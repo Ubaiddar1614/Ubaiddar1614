@@ -1,6 +1,6 @@
 # 👋 Hey, I'm Ubaid
 
-An aspiring **Back-End Developer** building toward enterprise-grade systems with **Java**, **Spring Boot**, and **MySQL**. I'm not interested in surface-level code — I want to understand how systems *actually* work, then build ones that scale.
+An aspiring **Back-End Developer** building toward enterprise-grade systems with **Java**, **Spring Boot**, and **MySQL**. I'm not interested in surface-level code — I want to understand how systems *actually* work, then build ones that scale.You can check my portfolio at www.ubaiddar.dev
 
 🎓 4th Semester B.S. Computer Science @ **National University of Modern Languages (NUML), Lahore**  
 🧠 Constantly learning, building, and going deeper — because getting warm is just getting started.
